@@ -16,7 +16,7 @@
 #define pb push_back
 #define FILL(a,b) memset(a,b,sizeof(a))
 using namespace std;
- 
+
 typedef vector<int> VI;
 typedef long long ll;
 typedef long double ld;
